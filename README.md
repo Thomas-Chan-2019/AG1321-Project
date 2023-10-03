@@ -5,7 +5,7 @@ Classification Project for KTH Course AG1321 - Remote Sensing Technology
 Install Anaconda or Miniconda (preferable) via the link below:
 https://docs.conda.io/projects/miniconda/en/latest/index.html#quick-command-line-install
 
-Create a new conda environment `ag1321` the required packages (geemap and more) via the following command in terminal:
+Create a new conda environment `ag1321` with the required packages (geemap and more) via the following command in terminal:
 ```
 conda create --name ag1321 -c conda-forge --file requirements.txt
 ```

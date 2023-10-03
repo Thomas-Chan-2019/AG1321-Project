@@ -3,7 +3,7 @@ numpy
 jupyter
 ipympl
 geemap
-earthengine-api
+# earthengine-api
 # gensim==3.8.3
 # gym==0.23.1
 # huggingface==0.0.1

@@ -16,3 +16,4 @@ conda create --name ag1321 -c conda-forge --file requirements.txt
 - GEE Image Classification (js based, convertable): https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module7.html
 - Supervised Classification in GEE: https://geohackweek.github.io/GoogleEarthEngine/05-classify-imagery/
 - GEE earthengine-api (keep for reference): https://developers.google.com/earth-engine/guides/python_install-conda
+- GEE ML, Supervised & Unsupervised Learning Tutorials: https://developers.google.com/earth-engine/guides/machine-learning

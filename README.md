@@ -17,3 +17,5 @@ conda create --name ag1321 -c conda-forge --file requirements.txt
 - Supervised Classification in GEE: https://geohackweek.github.io/GoogleEarthEngine/05-classify-imagery/
 - GEE earthengine-api (keep for reference): https://developers.google.com/earth-engine/guides/python_install-conda
 - GEE ML, Supervised & Unsupervised Learning Tutorials: https://developers.google.com/earth-engine/guides/machine-learning
+- geemap - Convert js to py with one function: https://geemap.org/notebooks/15_convert_js_to_py/
+- geemap - Accuracy Assessment via Confusion Matrix and export: https://geemap.org/notebooks/33_accuracy_assessment/#export-the-result

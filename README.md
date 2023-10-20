@@ -1,6 +1,11 @@
 # AG1321-Project
 Classification Project for KTH Course AG1321 - Remote Sensing Technology
 
+## Implementations on Unsupervised Classification Approach.
+This repo was originally planned to explore ML algorithm methods using resources out of the Google Earth Engine (GEE).  An initial setup for 'geemap' to act as intermediate interfacing for image importations was done, and the Unsupervised Classification was implemented here, to be found in [`unsupervised.ipynb`](unsupervised.ipynb).
+
+For the Supervised Classification, find the code implementation at GEE: https://code.earthengine.google.com/2f1418c7a9ed02aa9057f371505aa796 .
+
 ## Installations
 Install Anaconda or Miniconda (preferable) via the link below:
 https://docs.conda.io/projects/miniconda/en/latest/index.html#quick-command-line-install
